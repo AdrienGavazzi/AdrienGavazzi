@@ -1,9 +1,9 @@
-# 💫 About Me:
-🔧 Projets & Engineering
-  ⚡ Data Engineer & Python Developer — Création de pipelines robustes, traitement de données massives, optimisation de performances.<br>
-  🛰️ Earth Observation Enthusiast — Analyses NDVI, déforestation, qualité de l’air, indicateurs environnementaux.<br>
-  🧩 Architecture Modulaire — Amoureux des designs propres : Strategy, Factory, Repository, Hexagonal.<br>
-  🧪 Testing Mindset — Tests unitaires systématiques (pytest), qualité & maintenabilité.<br>
+# 💫 About Me:<br>
+🔧 Projets & Engineering<br>
+    ⚡ Data Engineer & Python Developer — Création de pipelines robustes, traitement de données massives, optimisation de performances.<br>
+    🛰️ Earth Observation Enthusiast — Analyses NDVI, déforestation, qualité de l’air, indicateurs environnementaux.<br>
+    🧩 Architecture Modulaire — Amoureux des designs propres : Strategy, Factory, Repository, Hexagonal.<br>
+    🧪 Testing Mindset — Tests unitaires systématiques (pytest), qualité & maintenabilité.<br>
 
 🧭 Spatial & Scientific Computing
   🌍 Google Earth Engine + Python — Extraction, analyse, temporalisation d’images satellites.
